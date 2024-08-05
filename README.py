@@ -1,5 +1,6 @@
-Property Data Scraper
-Overview
+Property Data Scraper Overview
+
+
 This project provides a web scraper for extracting property data from URLs. It uses different methods to fetch the HTML content from the provided URLs and parses it to extract relevant property information. The tool is built using Python and integrates with Streamlit for a user-friendly interface.
 
 Features
