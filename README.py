@@ -29,7 +29,7 @@ Clone the repository or download the code.
 
 bash
 Copy code
-git clone https://github.com/yourusername/property-data-scraper.git
+git clone https://github.com/SimpleMobileResponsiveWebsites/Property-Data-Scraper.git
 cd property-data-scraper
 Create a virtual environment and activate it:
 
